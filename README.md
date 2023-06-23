@@ -10,19 +10,19 @@ Please note that this will only function on Windows.
 
 **Features:**
 
-*A small, pixelated, animated cat that stands on the bottom of your screen hanging out, walking around, and going through several behaviors in a random manner.
-*Borderless, transparent window, always on top and does not interfere with other open windows.
-*You can left-click and drag to move the cat.
-*You can right-click for a special interaction.
-*Middle-click closes the application.
+* A small, pixelated, animated cat that stands on the bottom of your screen hanging out, walking around, and going through several behaviors in a random manner.
+* Borderless, transparent window, always on top and does not interfere with other open windows.
+* You can left-click and drag to move the cat.
+* You can right-click for a special interaction.
+* Middle-click closes the application.
 
 **Plans:**
 
-*Better interaction with Windows taskbar.
-*More interactions.
-*Startup customization options?
-*More animations?
+* Better interaction with Windows taskbar.
+* More interactions.
+* Startup customization options?
+* More animations?
 
 **Download Instructions:**
 
-*Simply download the zip file and run the executable!
+* Simply download the zip file and run the executable!

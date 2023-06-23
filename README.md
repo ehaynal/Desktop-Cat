@@ -6,7 +6,8 @@ Just a little friend who hangs out on the bottom of your screen, plain and simpl
 
 I just code for a hobby and wrote this as a distraction, so it is far from optimized. Please be patient with any issues or lack of features, and leave a comment down below if you'd like to see any further work on this!
 
-I'm very thankful for the wonderful art at Elthen's Pixel Art Shop and  their generous use polices! Check it out: https://elthen.itch.io/
+I'm very thankful for the wonderful art at Elthen's Pixel Art Shop and  their generous use polices!
+Check it out: https://elthen.itch.io/
 
 Please note that this will only function on Windows.
 

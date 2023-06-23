@@ -1,3 +1,5 @@
+![](cover.gif)
+
 **Description:**
 
 Just a little friend who hangs out on the bottom of your screen, plain and simple!
